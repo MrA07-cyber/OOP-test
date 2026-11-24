@@ -1,4 +1,4 @@
-"""AI-assisted practice examples for inheritance and operator overloading."""
+"""Examples of inheritance and operator overloading."""
 from dataclasses import dataclass
 from abc import ABC, abstractmethod
 
