@@ -1,4 +1,4 @@
-"""AI-assisted study examples for seven design patterns."""
+"""Examples of seven object-oriented design patterns."""
 from dataclasses import dataclass
 from functools import wraps
 import json
